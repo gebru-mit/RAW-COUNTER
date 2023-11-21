@@ -38,8 +38,8 @@ button {
 }
 
 #increment-btn {
-    /*background: #2C2891;*/
-    background: red;
+    background: #2C2891;
+   */* background: red;*/
 }
 
 #save-btn {
